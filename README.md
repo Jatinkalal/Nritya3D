@@ -8,6 +8,15 @@ This repository presents a work related to 3D human mesh reconstruction in the f
 ## System Architecture
 To be updated soon.
 
+## Results 
+![Reconstruction results on Bharatanatyam dance sequence](https://github.com/Jatinkalal/Nritya3D/blob/main/Images/final2.jpeg)
+Our proposed approach reconstructs intricate hand mudras of NattaAdavu from Bharatanatyam dance sequence effectively in-comparison to related works.
+![Reconstruction results on Bharatanatyam dance sequence](https://github.com/Jatinkalal/Nritya3D/blob/main/Images/final4.jpeg)
+Reconstruction results on EHF dataset in-comparison to related works.
+
+## Evaluation and details will be updated soon
+
+
 
 
 
